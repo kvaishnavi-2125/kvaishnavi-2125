@@ -1,6 +1,7 @@
+
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=kvaishnavi-2125&style=tokyonight&text=Hi!%20I'm%20Vaishnavi%20Kadam" alt="hero banner"/>
+  <img src="./hero_banner'.png" alt="hero banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">Vaishnavi Kadam</span></h1>
