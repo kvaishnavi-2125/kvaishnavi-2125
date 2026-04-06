@@ -9,10 +9,6 @@
 <b>🚀 Passionate about building real-world tech solutions using <span style="color:#00BFA6">AI</span>, <span style="color:#FFB300">IoT</span> & <span style="color:#00B0FF">Cloud</span></b>
 </p>
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80" alt="Developer at work" width="400" style="border-radius:16px; box-shadow:0 4px 24px #0002;"/>
-</div>
----
 
 ## ✨ About Me
 <ul>
