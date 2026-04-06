@@ -9,11 +9,9 @@
 <b>🚀 Passionate about building real-world tech solutions using <span style="color:#00BFA6">AI</span>, <span style="color:#FFB300">IoT</span> & <span style="color:#00B0FF">Cloud</span></b>
 </p>
 
-
 <div align="center">
-  <img src="https://undraw.co/api/illustrations/undraw_developer_activity.svg" alt="Developer Illustration" width="400"/>
+  <img src="https://raw.githubusercontent.com/vaishnavikadam2125/assets/main/undraw_programming_re_kg9v.svg" alt="Developer Illustration" width="400"/>
 </div>
-
 ---
 
 ## ✨ About Me
