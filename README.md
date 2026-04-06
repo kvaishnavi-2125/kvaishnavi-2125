@@ -9,8 +9,9 @@
 <b>🚀 Passionate about building real-world tech solutions using <span style="color:#00BFA6">AI</span>, <span style="color:#FFB300">IoT</span> & <span style="color:#00B0FF">Cloud</span></b>
 </p>
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
+  <img src="https://undraw.co/api/illustrations/undraw_developer_activity.svg" alt="Developer Illustration" width="400"/>
 </div>
 
 ---
