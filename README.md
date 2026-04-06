@@ -1,8 +1,6 @@
 
 <!-- HERO BANNER -->
-<p align="center">
-  <img src="./hero_banner'.png" alt="hero banner" width="50%" height="50%"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">Vaishnavi Kadam</span></h1>
 <h3 align="center">Computer Engineering Student | <span style="color:#00BFA6">AI</span> • <span style="color:#FFB300">IoT</span> • <span style="color:#FF4081">Full-Stack Developer</span></h3>
