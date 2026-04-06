@@ -1,7 +1,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="./hero_banner'.png" alt="hero banner" width="100%"/>
+  <img src="./hero_banner'.png" alt="hero banner" width="50%" height="50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">Vaishnavi Kadam</span></h1>
